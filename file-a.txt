@@ -1,0 +1,9 @@
+# Testing :
+
+- Log : 01
+
+Creating a local repo and pushing to remote repo.
+Time -  10:28 pm
+Date - 2026/05/25
+
+Initial commit will contain upto this file.
